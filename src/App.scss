@@ -1,0 +1,5 @@
+@import '/src/layouts/base';
+
+@media all and (min-width: 1024px) {
+  @import '/src/layouts/desktop';
+}
